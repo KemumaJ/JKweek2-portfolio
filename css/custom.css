@@ -1,9 +1,16 @@
-.{
-    margin:0;
-    padding:0;
-
-}
-.main{
+.background_image{
+    background-image: url(/images/bg-edward.png);
+    background-size: cover;
+    height: 640px;
     width: 100%;
-    background: linear-gradient(to top, blue;) url();
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+.main_content{
+    text-align: justify;
+    text-decoration-color: darkkhaki;
+    font-size: large;
+    font-family: 'Times New Roman';
+    font-style: normal;
 }
