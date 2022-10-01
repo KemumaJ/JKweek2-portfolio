@@ -1,22 +1,126 @@
-.background_image{
-    background-image: url(/images/bg-edward.png);
-    background-size: cover;
-    height: 640px;
-    width: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    
+*{
+    margin: 0;
+    padding: 0;
 }
-.main_content{
-    text-align: justify;
-    text-decoration-color: darkkhaki;
-    font-size: large;
-    font-family: 'Times New Roman';
-    font-style: normal;
+.main{
+    width: 100%;
+    background-image: url(/images/abstract\ bg1.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh; 
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: 0;
+}
+.logo{
+    color: orange;
+    font-size: 20px;
+    font-family: Arial;
+    padding-left: 20px;
+    float:left;
+    padding-top: 10px;
+
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
 }
 
-.photos{
-    size: 140px;
-    height:0px;
-    width: 25%;
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 20px;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: orangered
+}
+
+.search{
+    width:330px;
+    float: right;
+    margin-left: 100px;
+}
+
+.srch{
+    font-family: Times New Roman;
+    width: 200px;
+    height: 40px;
+    background: cornsilk;
+    border: 1px solid orange;
+    margin-top: 5px;
+    color: whitesmoke;
+    margin: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    background: orange;
+    border: 2px solid olivedrab;
+    margin-top: 5px;
+    color: white;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.btn:focus{
+    outline: none;
+}
+
+.srch.focus{
+    outline: none;
+}
+
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: tomato;
+    position: relative;
+}
+
+content .par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+
+.content h1{
+    font-family: Times New Roman;
+    font-size: 50px;
+    padding-left: 20px;
+    padding-top: 240px;
+    margin-top: 0%;
+    letter-spacing: 2px;
+    margin-left: 0;
+
 }
