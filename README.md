@@ -20,6 +20,9 @@ Josephine Kemuma
 ## Technologies used
 
 
+## Live Link
+https://github.com/KemumaJ/JKweek2-portfolio.git
+
 ## Contact information
 Email: jkemuma@gmail.com
 

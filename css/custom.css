@@ -6,10 +6,10 @@
 
 .main{
     width: 100%;
-    background-image: url(/images/ghana-tribal.png);
+    background-image: url(/images/abstract\ 2\ bg.png);
     background-position: center;
     background-size: cover;
-    height: 50vh; 
+    height: 100vh; 
 }
 
 .navbar{
