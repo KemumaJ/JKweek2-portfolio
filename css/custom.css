@@ -2,13 +2,16 @@
     margin: 0;
     padding: 0;
 }
+
+
 .main{
     width: 100%;
-    background-image: url(/images/abstract\ bg1.png);
+    background-image: url(/images/ghana-tribal.png);
     background-position: center;
     background-size: cover;
-    height: 100vh; 
+    height: 50vh; 
 }
+
 .navbar{
     width: 1200px;
     height: 75px;

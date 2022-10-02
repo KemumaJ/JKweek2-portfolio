@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Week Two IP-Akan Names</title>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <link rel="stylesheet" href="css/custom.css">
 </head>
 <body>
@@ -12,6 +14,8 @@
     <div class="navbar">
         <div class="icon">
             <h2 class="logo">AkanReveal</h2>
+        </div>
+             <div class="image">
         </div>
 
         <div class="menu">
@@ -37,7 +41,19 @@
                 are given their first name as 'day name' which corresponds to the day in the week they <br> were born.
                 Curious to know your Akan name?....Enter the day, month and year you were born and enter!</p>
 
-                <button class="date"><a href="#">Click here</a></button>
+                <div>
+                    <form action="/action_page.php">
+                        <label for="Dnumber">Date:</label>
+                        <input type="number" id="Dnumber" dname="Date"><br><br>
+                        <label for="Mnumber">Month:</label>
+                        <input type="number" id="Mnumber" name="number"><br><br>
+                        <label for="Gtext">Gender:</label>
+                        <input type="text" id="Gtext" name="text"><br><br>
+                        <input type="submit" value="Submit">
+                      </form>
+
+            </div>
+                
 
          </div>
 
@@ -48,5 +64,6 @@
 
 
 
+<script src="/js/main.js"></script>
 </body>
 </html>
