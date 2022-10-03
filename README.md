@@ -5,12 +5,14 @@ Akan Names
 ## Project description
 Landing page about the Akan tradition on child naming. 
 
+
 ## Author(s) information
 Josephine Kemuma
 
 ## Setup instructions - includes any scripts that need to be run if necessary
 Run JavaScript (main.js)
 Index.HTML
+Style CSS, and JavaScript. Clone the repository, open the repository in vs code serve with live server.
 
 ## BDD
 get user input
