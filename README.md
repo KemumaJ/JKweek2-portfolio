@@ -1,20 +1,25 @@
 
 ## Project name
+
 Akan Names
 
 ## Project description
+
 Landing page about the Akan tradition on child naming. 
 
 
 ## Author(s) information
+
 Josephine Kemuma
 
 ## Setup instructions - includes any scripts that need to be run if necessary
+
 Run JavaScript (main.js)
 Index.HTML
 Style CSS, and JavaScript. Clone the repository, open the repository in vs code serve with live server.
 
 ## BDD
+
 get user input
 get user's birthday
 var getUserInput =null
@@ -27,16 +32,20 @@ function getUserInput();
 console.log
 
 ## Technologies used
+
 JavaScript
 HTML
 bootstrap
 CSS style
 
 ## Live Link
+
 https://github.com/KemumaJ/JKweek2-portfolio.git
 
 ## Contact information
+
 Email: jkemuma@gmail.com
 
 ## License and Copyright information
+
 (C) 2022 Josephine Kemuma 
