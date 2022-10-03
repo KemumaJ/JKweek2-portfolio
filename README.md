@@ -12,11 +12,9 @@ Landing page about the Akan tradition on child naming.
 
 Josephine Kemuma
 
-## Setup instructions - includes any scripts that need to be run if necessary
+## Setup instructions
 
-Run JavaScript (main.js)
-Index.HTML
-Style CSS, and JavaScript. Clone the repository, open the repository in vs code serve with live server.
+Style CSS, and JavaScript. Clone the repository, open the repository in vs code serve with live server. JavaScript (main.js), Index.HTML
 
 ## BDD
 
