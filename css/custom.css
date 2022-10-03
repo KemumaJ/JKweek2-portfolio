@@ -105,11 +105,12 @@ ul li a:hover{
     width: 1200px;
     height: auto;
     margin: auto;
-    color: tomato;
+    color: black;
     position: relative;
+    margin-top: -150px;
 }
 
-content .par{
+.par{
     padding-left: 20px;
     padding-bottom: 25px;
     font-family: Arial;
