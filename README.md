@@ -9,16 +9,26 @@ Landing page about the Akan tradition on child naming.
 Josephine Kemuma
 
 ## Setup instructions - includes any scripts that need to be run if necessary
-
+Run JavaScript (main.js)
+Index.HTML
 
 ## BDD
-- get user input
-- get user's birthday
-- get user's Akan name
-
+get user input
+get user's birthday
+var getUserInput =null
+function getUserInput()
+document.write('Integer value is ' + d);
+calculate day of birth
+get user's Akan name
+function getAkanName(day, month, year, gender)
+function getUserInput();
+console.log
 
 ## Technologies used
-
+JavaScript
+HTML
+bootstrap
+CSS style
 
 ## Live Link
 https://github.com/KemumaJ/JKweek2-portfolio.git
@@ -27,4 +37,4 @@ https://github.com/KemumaJ/JKweek2-portfolio.git
 Email: jkemuma@gmail.com
 
 ## License and Copyright information
-(C) Josephine Kemuma
+(C) 2022 Josephine Kemuma 
