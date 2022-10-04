@@ -1,11 +1,13 @@
 
 ## Project name
 
-Akan Names
+Akan Names 
 
 ## Project description
 
 Landing page about the Akan tradition on child naming. 
+The user enter the day of birth, month, year and gender to get their Akan name.
+Prompt has been used for this project.
 
 
 ## Author(s) information
@@ -14,7 +16,10 @@ Josephine Kemuma
 
 ## Setup instructions
 
-Style CSS, and JavaScript. Clone the repository, open the repository in vs code serve with live server. JavaScript (main.js), Index.HTML
+Clone the repository, open the repository in vs code and serve with live server.
+JavaScript (main.js)
+Style CSS
+Index.HTML
 
 ## BDD
 
