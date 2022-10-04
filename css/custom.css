@@ -5,10 +5,11 @@
 
 .main{
     width: 100%;
-    background-image: url(/images/Photo\ by\ Scott\ Webb\ from\ Pexels.png);
+    background-image: url(/images/Capture.PNG);
     background-position: center;
     background-size: cover;
-    height: 100vh; 
+    height: 50vh; 
+    padding-top: -30px;
 }
 
 .navbar{
@@ -127,5 +128,10 @@ ul li a:hover{
     margin-top: 0%;
     letter-spacing: 2px;
     margin-left: 0;
+}
+
+.footer{
+    float: right;
+  
 }
 
