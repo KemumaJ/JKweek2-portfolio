@@ -130,5 +130,6 @@ ul li a:hover{
 footer{
     float: right;
     color: green;
+    font-size: small;
 }
 
