@@ -23,6 +23,9 @@ Index.HTML
 
 ## BDD
 
+get user input
+get user's birthday
+var getUserInput =null
 function getUserInput()
 document.write('Integer value is ' + d);
 calculate day of birth
