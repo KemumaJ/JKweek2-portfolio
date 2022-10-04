@@ -51,4 +51,4 @@ Email: jkemuma@gmail.com
 
 ## License and Copyright information
 
-(C) 2022 Josephine Kemuma #JKweek2-portfolio
+(C) 2022 Josephine Kemuma 
