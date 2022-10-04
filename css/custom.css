@@ -64,6 +64,7 @@ ul li a:hover{
     width:330px;
     float: right;
     margin-left: 100px;
+    padding-right: -30px;
 }
 
 .srch{
