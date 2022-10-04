@@ -67,7 +67,7 @@ akanNAme=MALE_NAMES[day]
     akanNAme=  FEMALE_NAMES[day]
 }
 
-alert(`Your Akan Name is ${akanNAme}, You Were Born on a ${dateOfWeek}`)
+alert(`Your Akan Name is ${akanNAme}, You Were Born on a ${dateOfWeek}!`)
 
 
     })
