@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 10;
 }
 
 .main{
@@ -8,7 +8,7 @@
     background-image: url(/images/Capture.PNG);
     background-position: center;
     background-size: cover;
-    height: 50vh; 
+    height: 75vh; 
     padding-top: -30px;
 }
 
@@ -16,40 +16,7 @@
     width: 1200px;
     height: 75px;
     margin: 20;
-    padding-top: -40px;
-}
-.logo{
-    color: green;
-    font-size: 20px;
-    font-family: Arial;
-    padding-left: 20px;
-    float:left;
-    padding-top: 10px;
-    font-weight: bolder;
-
-}
-
-ul{
-    float: left;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-ul li{
-    list-style: none;
-    margin-left: 62px;
-    margin-top: 27px;
-    font-size: 20px;
-
-}
-
-ul li a{
-    text-decoration: none;
-    color: orange;
-    font-family: Arial;
-    font-weight: bold;
-    transition: 0.4s ease-in-out;
+    padding-top: -80px;
 }
 
 ul li a:hover{
@@ -61,42 +28,6 @@ ul li a:hover{
     float: right;
     margin-left: 100px;
     padding-right: -30px;
-}
-
-.srch{
-    font-family: Times New Roman;
-    width: 200px;
-    height: 40px;
-    background: cornsilk;
-    border: 1px solid orange;
-    margin-top: 5px;
-    color: whitesmoke;
-    margin: none;
-    font-size: 10px;
-    float: left;
-    padding: 10px;
-    border-bottom-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-}
-
-.btn{
-    width: 100px;
-    height: 40px;
-    background: orange;
-    border: 2px solid olivedrab;
-    margin-top: 5px;
-    color: white;
-    font-size: 15px;
-    border-bottom-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-}
-
-.btn:focus{
-    outline: none;
-}
-
-.srch.focus{
-    outline: none;
 }
 
 .content{
@@ -117,7 +48,7 @@ ul li a:hover{
     font-size: larger;
 }
 
-.content h1{
+h1{
     font-family: Times New Roman;
     font-size: 50px;
     padding-left: 20px;
@@ -125,6 +56,7 @@ ul li a:hover{
     margin-top: 0%;
     letter-spacing: 2px;
     margin-left: 0;
+    color-scheme: brown;
 }
 
 footer{
