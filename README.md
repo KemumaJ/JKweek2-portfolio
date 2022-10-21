@@ -43,7 +43,7 @@ CSS style
 
 ## Live Link
 
-https://github.com/KemumaJ/JKweek2-portfolio.git
+ https://kemumaj.github.io/JKweek2-portfolio/
 
 ## Contact information
 
