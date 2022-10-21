@@ -8,7 +8,7 @@
     background-image: url('images/Capture.PNG');
     background-position: center;
     background-size: cover;
-    height: 75vh; 
+    height: 100vh; 
     padding-top: -30px;
 }
 
@@ -36,7 +36,7 @@ ul li a:hover{
     margin: auto;
     color: black;
     position: relative;
-    margin-top: -150px;
+    margin-top: -540px;
 }   
 
 .par{
