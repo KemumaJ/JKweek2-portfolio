@@ -52,6 +52,8 @@ const DAY_OF_THE_WEEK = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday",
     
 //     console.log("yourNameis + userAkanName")
     
+
+
 document.getElementById("submit").addEventListener("click",
 function(){
 const date =document.getElementById("date").value//2020-12-20

@@ -3,41 +3,22 @@
     padding: 10;
 }
 
-.main{
-    width: 100%;
-    background-image: url('images/Capture.PNG');
-    background-position: center;
-    background-size: cover;
-    height: 100vh; 
-    padding-top: -30px;
-}
-
-.navbar{
-    width: 1200px;
-    height: 75px;
-    margin: 20;
-    padding-top: -80px;
-}
-
-ul li a:hover{
-    color: darkgreen;
-}
-
-.search{
-    width:330px;
-    float: right;
-    margin-left: 100px;
-    padding-right: -30px;
+.photo{
+    padding: 0px;
+    margin: 0px;
+    height: 640px;
+    width: 50%;
 }
 
 .content{
     width: 1200px;
     height: auto;
-    margin: auto;
-    color: black;
-    position: relative;
-    margin-top: -540px;
+    margin-top: 300px;
 }   
+
+.form{
+    margin-left: 20px;
+}
 
 .par{
     padding-left: 20px;
@@ -53,7 +34,7 @@ h1{
     font-size: 50px;
     padding-left: 20px;
     padding-top: 240px;
-    margin-top: 0%;
+    margin-top: 5%;
     letter-spacing: 2px;
     margin-left: 0;
     color-scheme: brown;
